@@ -1,0 +1,2 @@
+# mindinnovations
+GitHub Pages
